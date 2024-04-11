@@ -1,3 +1,5 @@
+## [Link para o artigo no @Medium](https://medium.com/@samueljf/introdu%C3%A7%C3%A3o-ao-terraform-automatizando-a-infraestrutura-como-c%C3%B3digo-94e0a661d1ca)
+
 ## Requirements
 
 | Name | Version |
